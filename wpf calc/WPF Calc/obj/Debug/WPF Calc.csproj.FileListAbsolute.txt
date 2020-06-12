@@ -1,0 +1,42 @@
+C:\Users\shang\source\repos\WPF Calc\WPF Calc\obj\Debug\WPF Calc.csprojAssemblyReference.cache
+C:\Users\shang\source\repos\WPF Calc\WPF Calc\obj\Debug\MainWindow.g.cs
+C:\Users\shang\source\repos\WPF Calc\WPF Calc\obj\Debug\App.g.cs
+C:\Users\shang\source\repos\WPF Calc\WPF Calc\obj\Debug\WPF Calc_MarkupCompile.cache
+C:\Users\shang\source\repos\WPF Calc\WPF Calc\obj\Debug\WPF Calc_MarkupCompile.lref
+C:\Users\shang\source\repos\WPF Calc\WPF Calc\bin\Debug\WPF Calc.exe.config
+C:\Users\shang\source\repos\WPF Calc\WPF Calc\bin\Debug\WPF Calc.exe
+C:\Users\shang\source\repos\WPF Calc\WPF Calc\bin\Debug\WPF Calc.pdb
+C:\Users\shang\source\repos\WPF Calc\WPF Calc\obj\Debug\MainWindow.baml
+C:\Users\shang\source\repos\WPF Calc\WPF Calc\obj\Debug\WPF Calc.g.resources
+C:\Users\shang\source\repos\WPF Calc\WPF Calc\obj\Debug\WPF_Calc.Properties.Resources.resources
+C:\Users\shang\source\repos\WPF Calc\WPF Calc\obj\Debug\WPF Calc.csproj.GenerateResource.cache
+C:\Users\shang\source\repos\WPF Calc\WPF Calc\obj\Debug\WPF Calc.exe
+C:\Users\shang\source\repos\WPF Calc\WPF Calc\obj\Debug\WPF Calc.pdb
+C:\Users\shang\Desktop\wpf_cal-master\WPF Calc\bin\Debug\WPF Calc.exe.config
+C:\Users\shang\Desktop\wpf_cal-master\WPF Calc\bin\Debug\WPF Calc.exe
+C:\Users\shang\Desktop\wpf_cal-master\WPF Calc\bin\Debug\WPF Calc.pdb
+C:\Users\shang\Desktop\wpf_cal-master\WPF Calc\obj\Debug\WPF Calc.csprojAssemblyReference.cache
+C:\Users\shang\Desktop\wpf_cal-master\WPF Calc\obj\Debug\MainWindow.g.cs
+C:\Users\shang\Desktop\wpf_cal-master\WPF Calc\obj\Debug\App.g.cs
+C:\Users\shang\Desktop\wpf_cal-master\WPF Calc\obj\Debug\WPF Calc_MarkupCompile.cache
+C:\Users\shang\Desktop\wpf_cal-master\WPF Calc\obj\Debug\WPF Calc_MarkupCompile.lref
+C:\Users\shang\Desktop\wpf_cal-master\WPF Calc\obj\Debug\MainWindow.baml
+C:\Users\shang\Desktop\wpf_cal-master\WPF Calc\obj\Debug\WPF Calc.g.resources
+C:\Users\shang\Desktop\wpf_cal-master\WPF Calc\obj\Debug\WPF_Calc.Properties.Resources.resources
+C:\Users\shang\Desktop\wpf_cal-master\WPF Calc\obj\Debug\WPF Calc.csproj.GenerateResource.cache
+C:\Users\shang\Desktop\wpf_cal-master\WPF Calc\obj\Debug\WPF Calc.exe
+C:\Users\shang\Desktop\wpf_cal-master\WPF Calc\obj\Debug\WPF Calc.pdb
+C:\Users\admin\Desktop\wpf_cal-master\WPF Calc\bin\Debug\WPF Calc.exe.config
+C:\Users\admin\Desktop\wpf_cal-master\WPF Calc\bin\Debug\WPF Calc.exe
+C:\Users\admin\Desktop\wpf_cal-master\WPF Calc\bin\Debug\WPF Calc.pdb
+C:\Users\admin\Desktop\wpf_cal-master\WPF Calc\obj\Debug\WPF Calc.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\wpf_cal-master\WPF Calc\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\wpf_cal-master\WPF Calc\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\wpf_cal-master\WPF Calc\obj\Debug\WPF Calc_MarkupCompile.cache
+C:\Users\admin\Desktop\wpf_cal-master\WPF Calc\obj\Debug\WPF Calc_MarkupCompile.lref
+C:\Users\admin\Desktop\wpf_cal-master\WPF Calc\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\wpf_cal-master\WPF Calc\obj\Debug\WPF Calc.g.resources
+C:\Users\admin\Desktop\wpf_cal-master\WPF Calc\obj\Debug\WPF_Calc.Properties.Resources.resources
+C:\Users\admin\Desktop\wpf_cal-master\WPF Calc\obj\Debug\WPF Calc.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\wpf_cal-master\WPF Calc\obj\Debug\WPF Calc.exe
+C:\Users\admin\Desktop\wpf_cal-master\WPF Calc\obj\Debug\WPF Calc.pdb

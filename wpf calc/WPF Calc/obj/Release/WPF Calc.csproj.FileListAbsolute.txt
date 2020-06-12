@@ -1,0 +1,13 @@
+C:\Users\shang\Desktop\wpf_cal-master\WPF Calc\bin\Release\WPF Calc.exe.config
+C:\Users\shang\Desktop\wpf_cal-master\WPF Calc\bin\Release\WPF Calc.exe
+C:\Users\shang\Desktop\wpf_cal-master\WPF Calc\bin\Release\WPF Calc.pdb
+C:\Users\shang\Desktop\wpf_cal-master\WPF Calc\obj\Release\MainWindow.g.cs
+C:\Users\shang\Desktop\wpf_cal-master\WPF Calc\obj\Release\App.g.cs
+C:\Users\shang\Desktop\wpf_cal-master\WPF Calc\obj\Release\WPF Calc_MarkupCompile.cache
+C:\Users\shang\Desktop\wpf_cal-master\WPF Calc\obj\Release\WPF Calc_MarkupCompile.lref
+C:\Users\shang\Desktop\wpf_cal-master\WPF Calc\obj\Release\MainWindow.baml
+C:\Users\shang\Desktop\wpf_cal-master\WPF Calc\obj\Release\WPF Calc.g.resources
+C:\Users\shang\Desktop\wpf_cal-master\WPF Calc\obj\Release\WPF_Calc.Properties.Resources.resources
+C:\Users\shang\Desktop\wpf_cal-master\WPF Calc\obj\Release\WPF Calc.csproj.GenerateResource.cache
+C:\Users\shang\Desktop\wpf_cal-master\WPF Calc\obj\Release\WPF Calc.exe
+C:\Users\shang\Desktop\wpf_cal-master\WPF Calc\obj\Release\WPF Calc.pdb
